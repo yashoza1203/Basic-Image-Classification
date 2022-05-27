@@ -19,4 +19,4 @@
 8. Evaluate the model
 9. Visualize the predictions
 
- Course link:https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification/home/welcome
+ Course link: https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification/home/welcome
